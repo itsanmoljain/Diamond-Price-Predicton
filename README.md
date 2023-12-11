@@ -36,6 +36,3 @@ Once you have the dependencies, follow these steps to set up the project:
 
 The results of the diamond price prediction are evaluated based on various metrics such as mean absolute error (MAE), root mean squared error (RMSE), and R-squared score. These metrics provide insights into the performance of the model and how well it predicts diamond prices.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
