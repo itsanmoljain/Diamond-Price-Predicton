@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./venv/Lib/site-packages/seaborn-0.12.2-py3.8.egg"
+    ]
+}
